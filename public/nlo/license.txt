@@ -1,0 +1,11 @@
+Model Information:
+* title:	NLO
+* source:	https://sketchfab.com/3d-models/nlo-a8facd132f8549bb82695af2dc65fda9
+* author:	1235jgf (https://sketchfab.com/1235jgf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NLO" (https://sketchfab.com/3d-models/nlo-a8facd132f8549bb82695af2dc65fda9) by 1235jgf (https://sketchfab.com/1235jgf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

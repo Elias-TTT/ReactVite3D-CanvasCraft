@@ -36,6 +36,10 @@ export const navLinks = [
     title: "Experience",
   },
   {
+    id: "project",
+    title: "Projects",
+  },
+  {
     id: "contact",
     title: "Contact",
   },
@@ -121,7 +125,7 @@ const experiences = [
     company_name: "Old Batumi",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2016 - April 2018",
     points: [
       "Back in my gangster days, I was the Keyboard Capo.",
       "I'd infiltrate mainframes like a digital Al Capone, making firewalls an offer they couldn't refuse.",
@@ -135,7 +139,7 @@ const experiences = [
     company_name: "Gegut Castle",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2018 - Feb 2019",
     points: [
       "Spent a year in the slammer – turns out orange jumpsuits aren't in this season's fashion lineup.",
       "My cell was cozier than my apartment, and the cuisine? Let's just say I became a connoisseur of mystery meat.",
@@ -148,7 +152,7 @@ const experiences = [
     company_name: "Batumi Shota Rustaveli State University",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2019 - Jan 2023",
     points: [
       "BSU: where dreams of beachside campuses get replaced by nightmares of Geguti prison.",
       "Rumor has it, the campus ghosts are just confused coding errors haunting the halls.",
@@ -174,27 +178,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I know this guy as a merciless gangster and the coolest shooter, So if you have any problem, don't hesitate to ask !",
+    name: "Mikheil Donadze",
+    designation: "Professor",
+    company: "BSU",
+    image: "https://www.bsu.edu.ge/cv_images/person_b_110.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Elias does.",
+    name: "Elza Jincharadze",
     designation: "COO",
     company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://www.bsu.edu.ge/cv_images/person_b_449.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "After Elias optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Grandfather Khasan",
+    designation: "Thief in-Law",
+    company: "Soviet Union",
+    image: "https://upload.wikimedia.org/wikipedia/en/0/04/Aslan_Usoyan.jpg",
   },
 ];
 
