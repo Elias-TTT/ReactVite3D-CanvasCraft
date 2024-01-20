@@ -29,7 +29,7 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About Me",
+    title: "About",
   },
   {
     id: "work",
@@ -38,6 +38,10 @@ export const navLinks = [
   {
     id: "project",
     title: "Projects",
+  },
+  {
+    id: "testimonials",
+    title: "Testimonials",
   },
   {
     id: "contact",
@@ -150,7 +154,7 @@ const experiences = [
   {
     title: "BSU University",
     company_name: "Batumi Shota Rustaveli State University",
-    icon: shopify,
+    icon: meta,
     iconBg: "#383E56",
     date: "Jan 2019 - Jan 2023",
     points: [
@@ -188,8 +192,8 @@ const testimonials = [
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Elias does.",
     name: "Elza Jincharadze",
-    designation: "COO",
-    company: "DEF Corp",
+    designation: "Asst. Professor",
+    company: "BSU",
     image: "https://www.bsu.edu.ge/cv_images/person_b_449.jpg",
   },
   {
